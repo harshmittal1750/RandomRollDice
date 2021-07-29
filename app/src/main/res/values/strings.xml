@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomRollDice</string>
+    <string name="roll">Roll</string>
+    <string name="_2">2</string>
+</resources>
